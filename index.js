@@ -1,18 +1,25 @@
 const express = require('express');
-const app = express();
 const cors = require('cors');
-const port = process.env.PORT || 5000;
+const allData = require('./data/allData.json');
 
+const app = express();
+const port = process.env.PORT || 5000;
 app.use(cors());
 
 app.get('/', (req, res) => {
-    res.send('Server is running')
+    res.send(allData);
 });
 
-app.get('/check', (req, res) => {
-    res.json({ msg: 'yes everything is ok' });
-})
+app.get('/:id', (req, res) => {
+    const id = req.params.id;
+    const data = allData.find(item => item.id === parseInt(id));
+    if (data) {
+        res.send(data);
+    } else {
+        res.status(404).send('No Data Found');
+    }
+});
 
 app.listen(port, () => {
-    console.log(`server is running on port: ${port}`)
-})
+    console.log(`server is running on port: ${port}`);
+});
