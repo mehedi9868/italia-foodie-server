@@ -1,0 +1,692 @@
+[
+    {
+        "id": 1,
+        "name": "Massimo Bottura",
+        "yearsOfExperience": 10,
+        "picture": "https://cdn.unenvironment.org/s3fs-public/people/2020-09/massimo_0.jpeg",
+        "shortBio": "Bottura is a Michelin-starred chef and restaurateur from Modena, Italy. He is the owner and head chef of Osteria Francescana, which has been named the best restaurant in the world multiple times. He is known for his innovative take on traditional Italian dishes.",
+        "recipes": [
+            {
+                "name": "Risotto cacio e pepe",
+                "likes": 500,
+                "rating": 4.5,
+                "imageUrl": "https://www.saveur.com/uploads/2019/11/13/A42ITR2TYYYQA3F3MX23KS5PHA.jpg",
+                "description": "This dish is a playful twist on the classic Roman pasta dish. Bottura uses the same ingredients, but instead of pasta, he makes a creamy risotto with pecorino cheese and black pepper.",
+                "ingredients": [
+                    "1 1/2 cups Arborio rice",
+                    "4 tbsp butter",
+                    "1/2 cup grated Parmigiano-Reggiano cheese",
+                    "1/2 cup grated Pecorino cheese",
+                    "1-2 tsp freshly ground black pepper",
+                    "Salt, to taste",
+                    "4-5 cups chicken or vegetable broth"
+                ],
+                "instructions": [
+                    "In a large saucepan, bring the broth to a simmer and keep it warm over low heat.",
+                    "In another large saucepan, melt the butter over medium heat. Add the rice and stir to coat it with the butter. Cook for a few minutes, stirring constantly, until the rice is lightly toasted.",
+                    "Add a ladleful of hot broth to the rice and stir until the liquid is absorbed. Continue adding broth, one ladleful at a time, stirring constantly, until the rice is cooked but still al dente. This should take about 18-20 minutes.",
+                    "Stir in the grated Parmigiano-Reggiano cheese and Pecorino cheese, along with the black pepper. Add salt to taste. Stir until the cheese is melted and the risotto is creamy.",
+                    "Serve the risotto hot, topped with additional grated cheese and black pepper, if desired."
+                ]
+            },
+            {
+                "name": "Emilia burger",
+                "likes": 1000,
+                "imageUrl": "https://www.washingtonpost.com/rf/image_982w/2010-2019/WashingtonPost/2017/06/02/Food/Images/food_020-001.JPG",
+                "description": "This burger is a tribute to Bottura's hometown of Modena. It's made with a beef patty, balsamic onions, Parmigiano-Reggiano cheese, and a special sauce made with mustard, ketchup, and Worcestershire sauce.",
+                "ingredients": [
+                    "1 lb ground beef",
+                    "1/2 cup finely chopped onion",
+                    "1/4 cup bread crumbs",
+                    "1 egg",
+                    "1/4 cup grated Parmesan cheese",
+                    "1 tsp salt",
+                    "1/2 tsp black pepper",
+                    "4 brioche buns",
+                    "4 slices provolone cheese",
+                    "4 slices mortadella",
+                    "4 slices prosciutto",
+                    "1 cup arugula",
+                    "4 tbsp mayonnaise",
+                    "4 tsp balsamic vinegar",
+                    "4 tsp olive oil"
+                ],
+                "instructions": [
+                    "Preheat grill or grill pan to medium-high heat.",
+                    "In a large bowl, mix together the ground beef, onion, bread crumbs, egg, Parmesan cheese, salt, and black pepper until well combined. Form into 4 patties, making an indentation in the center of each one.",
+                    "Grill the burgers for 4-5 minutes per side, or until cooked to your liking.",
+                    "While the burgers are cooking, split the brioche buns and toast them on the grill for 1-2 minutes.",
+                    "To assemble the burgers, spread 1 tbsp of mayonnaise on the bottom half of each bun. Top with a handful of arugula, a slice of provolone cheese, a slice of mortadella, and a slice of prosciutto.",
+                    "Drizzle each burger with 1 tsp of balsamic vinegar and 1 tsp of olive oil. Place the top half of the bun on each burger and serve."
+                ]
+            },
+            {
+                "name": "Tortellini in brodo",
+                "likes": 1000,
+                "imageUrl": "https://cdn.shopify.com/s/files/1/1725/5449/articles/Copy_of_Copy_of_Copy_of_Untitled_copy_1200x1200.png",
+                "description": "This is a classic Italian dish that Bottura has elevated with his own twist. His version uses a broth made from capon and Parmigiano-Reggiano cheese rinds, and the tortellini are filled with a mixture of pork, prosciutto, and Parmigiano-Reggiano cheese.",
+                "ingredients": [
+                    "1 lb. fresh tortellini",
+                    "8 cups chicken broth",
+                    "1/2 cup grated Parmigiano-Reggiano cheese",
+                    "1/4 cup chopped fresh parsley",
+                    "1/4 cup chopped fresh basil",
+                    "1/2 cup finely chopped onion",
+                    "2 garlic cloves, minced",
+                    "2 tbsp olive oil",
+                    "Salt and black pepper, to taste"
+                ],
+                "instructions": [
+                    "In a large pot, heat the olive oil over medium heat. Add the chopped onion and garlic, and cook until softened, about 5 minutes.",
+                    "Add the chicken broth to the pot and bring to a boil. Reduce the heat and let the broth simmer for 10-15 minutes to allow the flavors to meld.",
+                    "Add the fresh tortellini to the broth and cook until tender, about 3-4 minutes.",
+                    "Stir in the grated Parmigiano-Reggiano cheese, chopped parsley, and chopped basil. Season with salt and black pepper to taste.",
+                    "Ladle the tortellini and broth into bowls and serve hot."
+                ]
+            },
+            {
+                "name": "Lasagna with only one meatball",
+                "likes": 1000,
+                "imageUrl": "https://www.akitchenhoorsadventures.com/wp-content/uploads/2021/11/meatball-lasagna-12W.jpg",
+                "description": "This dish is a whimsical take on the classic lasagna. Bottura serves a single giant meatball on top of a slice of lasagna, with a rich tomato sauce and Parmigiano-Reggiano cheese. The idea is that the meatball contains all the flavors of the traditional lasagna, but in a single bite.",
+                "ingredients": [
+                    "1 lb. lasagna noodles",
+                    "1 lb. ground beef",
+                    "1 egg, beaten",
+                    "1/2 cup bread crumbs",
+                    "1/4 cup grated Parmesan cheese",
+                    "1/4 cup milk",
+                    "1/2 tsp salt",
+                    "1/4 tsp black pepper",
+                    "4 cups marinara sauce",
+                    "1 lb. mozzarella cheese, shredded"
+                ],
+                "instructions": [
+                    "Preheat the oven to 375°F.",
+                    "Cook the lasagna noodles according to package directions. Drain and set aside.",
+                    "In a large bowl, mix together the ground beef, egg, bread crumbs, Parmesan cheese, milk, salt, and black pepper until well combined. Form into a large meatball.",
+                    "In a large skillet, brown the meatball on all sides. Remove from the skillet and set aside.",
+                    "In a 9x13 inch baking dish, spread a layer of marinara sauce. Add a layer of cooked lasagna noodles, then another layer of marinara sauce. Sprinkle with shredded mozzarella cheese. Repeat the layers until all ingredients are used up, ending with a layer of marinara sauce on top.",
+                    "Place the meatball on top of the lasagna and cover with additional marinara sauce.",
+                    "Cover the baking dish with foil and bake in the preheated oven for 25 minutes. Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+                    "Remove from the oven and let cool for a few minutes before serving."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Lidia Bastianich",
+        "yearsOfExperience": 10,
+        "picture": "https://pbs.twimg.com/profile_images/1704702142/Final_Blue_1593_Low_Res_for_twitter_400x400.jpg",
+        "shortBio": " Bastianich is an Italian-American celebrity chef, author, and restaurateur. She has written several cookbooks and hosted several cooking shows on TV. She is known for her traditional Italian recipes and her passion for preserving Italian food traditions.",
+        "recipes": [
+            {
+                "name": "Risotto cacio e pepe",
+                "likes": 500,
+                "rating": 4.5,
+                "imageUrl": "https://www.saveur.com/uploads/2019/11/13/A42ITR2TYYYQA3F3MX23KS5PHA.jpg",
+                "description": "This dish is a playful twist on the classic Roman pasta dish. Bottura uses the same ingredients, but instead of pasta, he makes a creamy risotto with pecorino cheese and black pepper.",
+                "ingredients": [
+                    "1 1/2 cups Arborio rice",
+                    "4 tbsp butter",
+                    "1/2 cup grated Parmigiano-Reggiano cheese",
+                    "1/2 cup grated Pecorino cheese",
+                    "1-2 tsp freshly ground black pepper",
+                    "Salt, to taste",
+                    "4-5 cups chicken or vegetable broth"
+                ],
+                "instructions": [
+                    "In a large saucepan, bring the broth to a simmer and keep it warm over low heat.",
+                    "In another large saucepan, melt the butter over medium heat. Add the rice and stir to coat it with the butter. Cook for a few minutes, stirring constantly, until the rice is lightly toasted.",
+                    "Add a ladleful of hot broth to the rice and stir until the liquid is absorbed. Continue adding broth, one ladleful at a time, stirring constantly, until the rice is cooked but still al dente. This should take about 18-20 minutes.",
+                    "Stir in the grated Parmigiano-Reggiano cheese and Pecorino cheese, along with the black pepper. Add salt to taste. Stir until the cheese is melted and the risotto is creamy.",
+                    "Serve the risotto hot, topped with additional grated cheese and black pepper, if desired."
+                ]
+            },
+            {
+                "name": "Emilia burger",
+                "likes": 1000,
+                "imageUrl": "https://www.washingtonpost.com/rf/image_982w/2010-2019/WashingtonPost/2017/06/02/Food/Images/food_020-001.JPG",
+                "description": "This burger is a tribute to Bottura's hometown of Modena. It's made with a beef patty, balsamic onions, Parmigiano-Reggiano cheese, and a special sauce made with mustard, ketchup, and Worcestershire sauce.",
+                "ingredients": [
+                    "1 lb ground beef",
+                    "1/2 cup finely chopped onion",
+                    "1/4 cup bread crumbs",
+                    "1 egg",
+                    "1/4 cup grated Parmesan cheese",
+                    "1 tsp salt",
+                    "1/2 tsp black pepper",
+                    "4 brioche buns",
+                    "4 slices provolone cheese",
+                    "4 slices mortadella",
+                    "4 slices prosciutto",
+                    "1 cup arugula",
+                    "4 tbsp mayonnaise",
+                    "4 tsp balsamic vinegar",
+                    "4 tsp olive oil"
+                ],
+                "instructions": [
+                    "Preheat grill or grill pan to medium-high heat.",
+                    "In a large bowl, mix together the ground beef, onion, bread crumbs, egg, Parmesan cheese, salt, and black pepper until well combined. Form into 4 patties, making an indentation in the center of each one.",
+                    "Grill the burgers for 4-5 minutes per side, or until cooked to your liking.",
+                    "While the burgers are cooking, split the brioche buns and toast them on the grill for 1-2 minutes.",
+                    "To assemble the burgers, spread 1 tbsp of mayonnaise on the bottom half of each bun. Top with a handful of arugula, a slice of provolone cheese, a slice of mortadella, and a slice of prosciutto.",
+                    "Drizzle each burger with 1 tsp of balsamic vinegar and 1 tsp of olive oil. Place the top half of the bun on each burger and serve."
+                ]
+            },
+            {
+                "name": "Tortellini in brodo",
+                "likes": 1000,
+                "imageUrl": "https://cdn.shopify.com/s/files/1/1725/5449/articles/Copy_of_Copy_of_Copy_of_Untitled_copy_1200x1200.png",
+                "description": "This is a classic Italian dish that Bottura has elevated with his own twist. His version uses a broth made from capon and Parmigiano-Reggiano cheese rinds, and the tortellini are filled with a mixture of pork, prosciutto, and Parmigiano-Reggiano cheese.",
+                "ingredients": [
+                    "1 lb. fresh tortellini",
+                    "8 cups chicken broth",
+                    "1/2 cup grated Parmigiano-Reggiano cheese",
+                    "1/4 cup chopped fresh parsley",
+                    "1/4 cup chopped fresh basil",
+                    "1/2 cup finely chopped onion",
+                    "2 garlic cloves, minced",
+                    "2 tbsp olive oil",
+                    "Salt and black pepper, to taste"
+                ],
+                "instructions": [
+                    "In a large pot, heat the olive oil over medium heat. Add the chopped onion and garlic, and cook until softened, about 5 minutes.",
+                    "Add the chicken broth to the pot and bring to a boil. Reduce the heat and let the broth simmer for 10-15 minutes to allow the flavors to meld.",
+                    "Add the fresh tortellini to the broth and cook until tender, about 3-4 minutes.",
+                    "Stir in the grated Parmigiano-Reggiano cheese, chopped parsley, and chopped basil. Season with salt and black pepper to taste.",
+                    "Ladle the tortellini and broth into bowls and serve hot."
+                ]
+            },
+            {
+                "name": "Lasagna with only one meatball",
+                "likes": 1000,
+                "imageUrl": "https://www.akitchenhoorsadventures.com/wp-content/uploads/2021/11/meatball-lasagna-12W.jpg",
+                "description": "This dish is a whimsical take on the classic lasagna. Bottura serves a single giant meatball on top of a slice of lasagna, with a rich tomato sauce and Parmigiano-Reggiano cheese. The idea is that the meatball contains all the flavors of the traditional lasagna, but in a single bite.",
+                "ingredients": [
+                    "1 lb. lasagna noodles",
+                    "1 lb. ground beef",
+                    "1 egg, beaten",
+                    "1/2 cup bread crumbs",
+                    "1/4 cup grated Parmesan cheese",
+                    "1/4 cup milk",
+                    "1/2 tsp salt",
+                    "1/4 tsp black pepper",
+                    "4 cups marinara sauce",
+                    "1 lb. mozzarella cheese, shredded"
+                ],
+                "instructions": [
+                    "Preheat the oven to 375°F.",
+                    "Cook the lasagna noodles according to package directions. Drain and set aside.",
+                    "In a large bowl, mix together the ground beef, egg, bread crumbs, Parmesan cheese, milk, salt, and black pepper until well combined. Form into a large meatball.",
+                    "In a large skillet, brown the meatball on all sides. Remove from the skillet and set aside.",
+                    "In a 9x13 inch baking dish, spread a layer of marinara sauce. Add a layer of cooked lasagna noodles, then another layer of marinara sauce. Sprinkle with shredded mozzarella cheese. Repeat the layers until all ingredients are used up, ending with a layer of marinara sauce on top.",
+                    "Place the meatball on top of the lasagna and cover with additional marinara sauce.",
+                    "Cover the baking dish with foil and bake in the preheated oven for 25 minutes. Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+                    "Remove from the oven and let cool for a few minutes before serving."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Gualtiero Marchesi",
+        "yearsOfExperience": 10,
+        "picture": "https://d3h1lg3ksw6i6b.cloudfront.net/media/image/2017/12/29/05246d5c35bf4188bf92962e05e1907d_gualtiero_marchesi_text.jpg",
+        "shortBio": "Marchesi was an Italian chef and restaurateur who is often credited with being the founder of modern Italian cuisine. He was the first Italian chef to be awarded three Michelin stars and has been recognized as one of the greatest chefs of all time.",
+        "recipes": [
+            {
+                "name": "Risotto cacio e pepe",
+                "likes": 500,
+                "rating": 4.5,
+                "imageUrl": "https://www.saveur.com/uploads/2019/11/13/A42ITR2TYYYQA3F3MX23KS5PHA.jpg",
+                "description": "This dish is a playful twist on the classic Roman pasta dish. Bottura uses the same ingredients, but instead of pasta, he makes a creamy risotto with pecorino cheese and black pepper.",
+                "ingredients": [
+                    "1 1/2 cups Arborio rice",
+                    "4 tbsp butter",
+                    "1/2 cup grated Parmigiano-Reggiano cheese",
+                    "1/2 cup grated Pecorino cheese",
+                    "1-2 tsp freshly ground black pepper",
+                    "Salt, to taste",
+                    "4-5 cups chicken or vegetable broth"
+                ],
+                "instructions": [
+                    "In a large saucepan, bring the broth to a simmer and keep it warm over low heat.",
+                    "In another large saucepan, melt the butter over medium heat. Add the rice and stir to coat it with the butter. Cook for a few minutes, stirring constantly, until the rice is lightly toasted.",
+                    "Add a ladleful of hot broth to the rice and stir until the liquid is absorbed. Continue adding broth, one ladleful at a time, stirring constantly, until the rice is cooked but still al dente. This should take about 18-20 minutes.",
+                    "Stir in the grated Parmigiano-Reggiano cheese and Pecorino cheese, along with the black pepper. Add salt to taste. Stir until the cheese is melted and the risotto is creamy.",
+                    "Serve the risotto hot, topped with additional grated cheese and black pepper, if desired."
+                ]
+            },
+            {
+                "name": "Emilia burger",
+                "likes": 1000,
+                "imageUrl": "https://www.washingtonpost.com/rf/image_982w/2010-2019/WashingtonPost/2017/06/02/Food/Images/food_020-001.JPG",
+                "description": "This burger is a tribute to Bottura's hometown of Modena. It's made with a beef patty, balsamic onions, Parmigiano-Reggiano cheese, and a special sauce made with mustard, ketchup, and Worcestershire sauce.",
+                "ingredients": [
+                    "1 lb ground beef",
+                    "1/2 cup finely chopped onion",
+                    "1/4 cup bread crumbs",
+                    "1 egg",
+                    "1/4 cup grated Parmesan cheese",
+                    "1 tsp salt",
+                    "1/2 tsp black pepper",
+                    "4 brioche buns",
+                    "4 slices provolone cheese",
+                    "4 slices mortadella",
+                    "4 slices prosciutto",
+                    "1 cup arugula",
+                    "4 tbsp mayonnaise",
+                    "4 tsp balsamic vinegar",
+                    "4 tsp olive oil"
+                ],
+                "instructions": [
+                    "Preheat grill or grill pan to medium-high heat.",
+                    "In a large bowl, mix together the ground beef, onion, bread crumbs, egg, Parmesan cheese, salt, and black pepper until well combined. Form into 4 patties, making an indentation in the center of each one.",
+                    "Grill the burgers for 4-5 minutes per side, or until cooked to your liking.",
+                    "While the burgers are cooking, split the brioche buns and toast them on the grill for 1-2 minutes.",
+                    "To assemble the burgers, spread 1 tbsp of mayonnaise on the bottom half of each bun. Top with a handful of arugula, a slice of provolone cheese, a slice of mortadella, and a slice of prosciutto.",
+                    "Drizzle each burger with 1 tsp of balsamic vinegar and 1 tsp of olive oil. Place the top half of the bun on each burger and serve."
+                ]
+            },
+            {
+                "name": "Tortellini in brodo",
+                "likes": 1000,
+                "imageUrl": "https://cdn.shopify.com/s/files/1/1725/5449/articles/Copy_of_Copy_of_Copy_of_Untitled_copy_1200x1200.png",
+                "description": "This is a classic Italian dish that Bottura has elevated with his own twist. His version uses a broth made from capon and Parmigiano-Reggiano cheese rinds, and the tortellini are filled with a mixture of pork, prosciutto, and Parmigiano-Reggiano cheese.",
+                "ingredients": [
+                    "1 lb. fresh tortellini",
+                    "8 cups chicken broth",
+                    "1/2 cup grated Parmigiano-Reggiano cheese",
+                    "1/4 cup chopped fresh parsley",
+                    "1/4 cup chopped fresh basil",
+                    "1/2 cup finely chopped onion",
+                    "2 garlic cloves, minced",
+                    "2 tbsp olive oil",
+                    "Salt and black pepper, to taste"
+                ],
+                "instructions": [
+                    "In a large pot, heat the olive oil over medium heat. Add the chopped onion and garlic, and cook until softened, about 5 minutes.",
+                    "Add the chicken broth to the pot and bring to a boil. Reduce the heat and let the broth simmer for 10-15 minutes to allow the flavors to meld.",
+                    "Add the fresh tortellini to the broth and cook until tender, about 3-4 minutes.",
+                    "Stir in the grated Parmigiano-Reggiano cheese, chopped parsley, and chopped basil. Season with salt and black pepper to taste.",
+                    "Ladle the tortellini and broth into bowls and serve hot."
+                ]
+            },
+            {
+                "name": "Lasagna with only one meatball",
+                "likes": 1000,
+                "imageUrl": "https://www.akitchenhoorsadventures.com/wp-content/uploads/2021/11/meatball-lasagna-12W.jpg",
+                "description": "This dish is a whimsical take on the classic lasagna. Bottura serves a single giant meatball on top of a slice of lasagna, with a rich tomato sauce and Parmigiano-Reggiano cheese. The idea is that the meatball contains all the flavors of the traditional lasagna, but in a single bite.",
+                "ingredients": [
+                    "1 lb. lasagna noodles",
+                    "1 lb. ground beef",
+                    "1 egg, beaten",
+                    "1/2 cup bread crumbs",
+                    "1/4 cup grated Parmesan cheese",
+                    "1/4 cup milk",
+                    "1/2 tsp salt",
+                    "1/4 tsp black pepper",
+                    "4 cups marinara sauce",
+                    "1 lb. mozzarella cheese, shredded"
+                ],
+                "instructions": [
+                    "Preheat the oven to 375°F.",
+                    "Cook the lasagna noodles according to package directions. Drain and set aside.",
+                    "In a large bowl, mix together the ground beef, egg, bread crumbs, Parmesan cheese, milk, salt, and black pepper until well combined. Form into a large meatball.",
+                    "In a large skillet, brown the meatball on all sides. Remove from the skillet and set aside.",
+                    "In a 9x13 inch baking dish, spread a layer of marinara sauce. Add a layer of cooked lasagna noodles, then another layer of marinara sauce. Sprinkle with shredded mozzarella cheese. Repeat the layers until all ingredients are used up, ending with a layer of marinara sauce on top.",
+                    "Place the meatball on top of the lasagna and cover with additional marinara sauce.",
+                    "Cover the baking dish with foil and bake in the preheated oven for 25 minutes. Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+                    "Remove from the oven and let cool for a few minutes before serving."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Carlo Cracco",
+        "yearsOfExperience": 10,
+        "picture": "https://www.kachen.lu/wp-content/uploads/2021/05/carlocracco.jpg",
+        "shortBio": "Cracco is an Italian chef and restaurateur who has received multiple Michelin stars for his restaurants. He is known for his innovative and modern approach to Italian cuisine.",
+        "recipes": [
+            {
+                "name": "Risotto cacio e pepe",
+                "likes": 500,
+                "rating": 4.5,
+                "imageUrl": "https://www.saveur.com/uploads/2019/11/13/A42ITR2TYYYQA3F3MX23KS5PHA.jpg",
+                "description": "This dish is a playful twist on the classic Roman pasta dish. Bottura uses the same ingredients, but instead of pasta, he makes a creamy risotto with pecorino cheese and black pepper.",
+                "ingredients": [
+                    "1 1/2 cups Arborio rice",
+                    "4 tbsp butter",
+                    "1/2 cup grated Parmigiano-Reggiano cheese",
+                    "1/2 cup grated Pecorino cheese",
+                    "1-2 tsp freshly ground black pepper",
+                    "Salt, to taste",
+                    "4-5 cups chicken or vegetable broth"
+                ],
+                "instructions": [
+                    "In a large saucepan, bring the broth to a simmer and keep it warm over low heat.",
+                    "In another large saucepan, melt the butter over medium heat. Add the rice and stir to coat it with the butter. Cook for a few minutes, stirring constantly, until the rice is lightly toasted.",
+                    "Add a ladleful of hot broth to the rice and stir until the liquid is absorbed. Continue adding broth, one ladleful at a time, stirring constantly, until the rice is cooked but still al dente. This should take about 18-20 minutes.",
+                    "Stir in the grated Parmigiano-Reggiano cheese and Pecorino cheese, along with the black pepper. Add salt to taste. Stir until the cheese is melted and the risotto is creamy.",
+                    "Serve the risotto hot, topped with additional grated cheese and black pepper, if desired."
+                ]
+            },
+            {
+                "name": "Emilia burger",
+                "likes": 1000,
+                "imageUrl": "https://www.washingtonpost.com/rf/image_982w/2010-2019/WashingtonPost/2017/06/02/Food/Images/food_020-001.JPG",
+                "description": "This burger is a tribute to Bottura's hometown of Modena. It's made with a beef patty, balsamic onions, Parmigiano-Reggiano cheese, and a special sauce made with mustard, ketchup, and Worcestershire sauce.",
+                "ingredients": [
+                    "1 lb ground beef",
+                    "1/2 cup finely chopped onion",
+                    "1/4 cup bread crumbs",
+                    "1 egg",
+                    "1/4 cup grated Parmesan cheese",
+                    "1 tsp salt",
+                    "1/2 tsp black pepper",
+                    "4 brioche buns",
+                    "4 slices provolone cheese",
+                    "4 slices mortadella",
+                    "4 slices prosciutto",
+                    "1 cup arugula",
+                    "4 tbsp mayonnaise",
+                    "4 tsp balsamic vinegar",
+                    "4 tsp olive oil"
+                ],
+                "instructions": [
+                    "Preheat grill or grill pan to medium-high heat.",
+                    "In a large bowl, mix together the ground beef, onion, bread crumbs, egg, Parmesan cheese, salt, and black pepper until well combined. Form into 4 patties, making an indentation in the center of each one.",
+                    "Grill the burgers for 4-5 minutes per side, or until cooked to your liking.",
+                    "While the burgers are cooking, split the brioche buns and toast them on the grill for 1-2 minutes.",
+                    "To assemble the burgers, spread 1 tbsp of mayonnaise on the bottom half of each bun. Top with a handful of arugula, a slice of provolone cheese, a slice of mortadella, and a slice of prosciutto.",
+                    "Drizzle each burger with 1 tsp of balsamic vinegar and 1 tsp of olive oil. Place the top half of the bun on each burger and serve."
+                ]
+            },
+            {
+                "name": "Tortellini in brodo",
+                "likes": 1000,
+                "imageUrl": "https://cdn.shopify.com/s/files/1/1725/5449/articles/Copy_of_Copy_of_Copy_of_Untitled_copy_1200x1200.png",
+                "description": "This is a classic Italian dish that Bottura has elevated with his own twist. His version uses a broth made from capon and Parmigiano-Reggiano cheese rinds, and the tortellini are filled with a mixture of pork, prosciutto, and Parmigiano-Reggiano cheese.",
+                "ingredients": [
+                    "1 lb. fresh tortellini",
+                    "8 cups chicken broth",
+                    "1/2 cup grated Parmigiano-Reggiano cheese",
+                    "1/4 cup chopped fresh parsley",
+                    "1/4 cup chopped fresh basil",
+                    "1/2 cup finely chopped onion",
+                    "2 garlic cloves, minced",
+                    "2 tbsp olive oil",
+                    "Salt and black pepper, to taste"
+                ],
+                "instructions": [
+                    "In a large pot, heat the olive oil over medium heat. Add the chopped onion and garlic, and cook until softened, about 5 minutes.",
+                    "Add the chicken broth to the pot and bring to a boil. Reduce the heat and let the broth simmer for 10-15 minutes to allow the flavors to meld.",
+                    "Add the fresh tortellini to the broth and cook until tender, about 3-4 minutes.",
+                    "Stir in the grated Parmigiano-Reggiano cheese, chopped parsley, and chopped basil. Season with salt and black pepper to taste.",
+                    "Ladle the tortellini and broth into bowls and serve hot."
+                ]
+            },
+            {
+                "name": "Lasagna with only one meatball",
+                "likes": 1000,
+                "imageUrl": "https://www.akitchenhoorsadventures.com/wp-content/uploads/2021/11/meatball-lasagna-12W.jpg",
+                "description": "This dish is a whimsical take on the classic lasagna. Bottura serves a single giant meatball on top of a slice of lasagna, with a rich tomato sauce and Parmigiano-Reggiano cheese. The idea is that the meatball contains all the flavors of the traditional lasagna, but in a single bite.",
+                "ingredients": [
+                    "1 lb. lasagna noodles",
+                    "1 lb. ground beef",
+                    "1 egg, beaten",
+                    "1/2 cup bread crumbs",
+                    "1/4 cup grated Parmesan cheese",
+                    "1/4 cup milk",
+                    "1/2 tsp salt",
+                    "1/4 tsp black pepper",
+                    "4 cups marinara sauce",
+                    "1 lb. mozzarella cheese, shredded"
+                ],
+                "instructions": [
+                    "Preheat the oven to 375°F.",
+                    "Cook the lasagna noodles according to package directions. Drain and set aside.",
+                    "In a large bowl, mix together the ground beef, egg, bread crumbs, Parmesan cheese, milk, salt, and black pepper until well combined. Form into a large meatball.",
+                    "In a large skillet, brown the meatball on all sides. Remove from the skillet and set aside.",
+                    "In a 9x13 inch baking dish, spread a layer of marinara sauce. Add a layer of cooked lasagna noodles, then another layer of marinara sauce. Sprinkle with shredded mozzarella cheese. Repeat the layers until all ingredients are used up, ending with a layer of marinara sauce on top.",
+                    "Place the meatball on top of the lasagna and cover with additional marinara sauce.",
+                    "Cover the baking dish with foil and bake in the preheated oven for 25 minutes. Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+                    "Remove from the oven and let cool for a few minutes before serving."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Davide Oldani",
+        "yearsOfExperience": 10,
+        "picture": "https://www.alimentipedia.it/files/styles/main_image/public/images/davide-oldani.jpg",
+        "shortBio": "Oldani is an Italian chef and restaurateur who is known for his cucina pop style of cooking, which emphasizes simplicity, affordability, and accessibility. He has been recognized as one of the most influential chefs in Italy.",
+        "recipes": [
+            {
+                "name": "Risotto cacio e pepe",
+                "likes": 500,
+                "rating": 4.5,
+                "imageUrl": "https://www.saveur.com/uploads/2019/11/13/A42ITR2TYYYQA3F3MX23KS5PHA.jpg",
+                "description": "This dish is a playful twist on the classic Roman pasta dish. Bottura uses the same ingredients, but instead of pasta, he makes a creamy risotto with pecorino cheese and black pepper.",
+                "ingredients": [
+                    "1 1/2 cups Arborio rice",
+                    "4 tbsp butter",
+                    "1/2 cup grated Parmigiano-Reggiano cheese",
+                    "1/2 cup grated Pecorino cheese",
+                    "1-2 tsp freshly ground black pepper",
+                    "Salt, to taste",
+                    "4-5 cups chicken or vegetable broth"
+                ],
+                "instructions": [
+                    "In a large saucepan, bring the broth to a simmer and keep it warm over low heat.",
+                    "In another large saucepan, melt the butter over medium heat. Add the rice and stir to coat it with the butter. Cook for a few minutes, stirring constantly, until the rice is lightly toasted.",
+                    "Add a ladleful of hot broth to the rice and stir until the liquid is absorbed. Continue adding broth, one ladleful at a time, stirring constantly, until the rice is cooked but still al dente. This should take about 18-20 minutes.",
+                    "Stir in the grated Parmigiano-Reggiano cheese and Pecorino cheese, along with the black pepper. Add salt to taste. Stir until the cheese is melted and the risotto is creamy.",
+                    "Serve the risotto hot, topped with additional grated cheese and black pepper, if desired."
+                ]
+            },
+            {
+                "name": "Emilia burger",
+                "likes": 1000,
+                "imageUrl": "https://www.washingtonpost.com/rf/image_982w/2010-2019/WashingtonPost/2017/06/02/Food/Images/food_020-001.JPG",
+                "description": "This burger is a tribute to Bottura's hometown of Modena. It's made with a beef patty, balsamic onions, Parmigiano-Reggiano cheese, and a special sauce made with mustard, ketchup, and Worcestershire sauce.",
+                "ingredients": [
+                    "1 lb ground beef",
+                    "1/2 cup finely chopped onion",
+                    "1/4 cup bread crumbs",
+                    "1 egg",
+                    "1/4 cup grated Parmesan cheese",
+                    "1 tsp salt",
+                    "1/2 tsp black pepper",
+                    "4 brioche buns",
+                    "4 slices provolone cheese",
+                    "4 slices mortadella",
+                    "4 slices prosciutto",
+                    "1 cup arugula",
+                    "4 tbsp mayonnaise",
+                    "4 tsp balsamic vinegar",
+                    "4 tsp olive oil"
+                ],
+                "instructions": [
+                    "Preheat grill or grill pan to medium-high heat.",
+                    "In a large bowl, mix together the ground beef, onion, bread crumbs, egg, Parmesan cheese, salt, and black pepper until well combined. Form into 4 patties, making an indentation in the center of each one.",
+                    "Grill the burgers for 4-5 minutes per side, or until cooked to your liking.",
+                    "While the burgers are cooking, split the brioche buns and toast them on the grill for 1-2 minutes.",
+                    "To assemble the burgers, spread 1 tbsp of mayonnaise on the bottom half of each bun. Top with a handful of arugula, a slice of provolone cheese, a slice of mortadella, and a slice of prosciutto.",
+                    "Drizzle each burger with 1 tsp of balsamic vinegar and 1 tsp of olive oil. Place the top half of the bun on each burger and serve."
+                ]
+            },
+            {
+                "name": "Tortellini in brodo",
+                "likes": 1000,
+                "imageUrl": "https://cdn.shopify.com/s/files/1/1725/5449/articles/Copy_of_Copy_of_Copy_of_Untitled_copy_1200x1200.png",
+                "description": "This is a classic Italian dish that Bottura has elevated with his own twist. His version uses a broth made from capon and Parmigiano-Reggiano cheese rinds, and the tortellini are filled with a mixture of pork, prosciutto, and Parmigiano-Reggiano cheese.",
+                "ingredients": [
+                    "1 lb. fresh tortellini",
+                    "8 cups chicken broth",
+                    "1/2 cup grated Parmigiano-Reggiano cheese",
+                    "1/4 cup chopped fresh parsley",
+                    "1/4 cup chopped fresh basil",
+                    "1/2 cup finely chopped onion",
+                    "2 garlic cloves, minced",
+                    "2 tbsp olive oil",
+                    "Salt and black pepper, to taste"
+                ],
+                "instructions": [
+                    "In a large pot, heat the olive oil over medium heat. Add the chopped onion and garlic, and cook until softened, about 5 minutes.",
+                    "Add the chicken broth to the pot and bring to a boil. Reduce the heat and let the broth simmer for 10-15 minutes to allow the flavors to meld.",
+                    "Add the fresh tortellini to the broth and cook until tender, about 3-4 minutes.",
+                    "Stir in the grated Parmigiano-Reggiano cheese, chopped parsley, and chopped basil. Season with salt and black pepper to taste.",
+                    "Ladle the tortellini and broth into bowls and serve hot."
+                ]
+            },
+            {
+                "name": "Lasagna with only one meatball",
+                "likes": 1000,
+                "imageUrl": "https://www.akitchenhoorsadventures.com/wp-content/uploads/2021/11/meatball-lasagna-12W.jpg",
+                "description": "This dish is a whimsical take on the classic lasagna. Bottura serves a single giant meatball on top of a slice of lasagna, with a rich tomato sauce and Parmigiano-Reggiano cheese. The idea is that the meatball contains all the flavors of the traditional lasagna, but in a single bite.",
+                "ingredients": [
+                    "1 lb. lasagna noodles",
+                    "1 lb. ground beef",
+                    "1 egg, beaten",
+                    "1/2 cup bread crumbs",
+                    "1/4 cup grated Parmesan cheese",
+                    "1/4 cup milk",
+                    "1/2 tsp salt",
+                    "1/4 tsp black pepper",
+                    "4 cups marinara sauce",
+                    "1 lb. mozzarella cheese, shredded"
+                ],
+                "instructions": [
+                    "Preheat the oven to 375°F.",
+                    "Cook the lasagna noodles according to package directions. Drain and set aside.",
+                    "In a large bowl, mix together the ground beef, egg, bread crumbs, Parmesan cheese, milk, salt, and black pepper until well combined. Form into a large meatball.",
+                    "In a large skillet, brown the meatball on all sides. Remove from the skillet and set aside.",
+                    "In a 9x13 inch baking dish, spread a layer of marinara sauce. Add a layer of cooked lasagna noodles, then another layer of marinara sauce. Sprinkle with shredded mozzarella cheese. Repeat the layers until all ingredients are used up, ending with a layer of marinara sauce on top.",
+                    "Place the meatball on top of the lasagna and cover with additional marinara sauce.",
+                    "Cover the baking dish with foil and bake in the preheated oven for 25 minutes. Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+                    "Remove from the oven and let cool for a few minutes before serving."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Enrico Crippa",
+        "yearsOfExperience": 10,
+        "picture": "https://primochef.it/wp-content/uploads/2020/08/GI_Enrico_Crippa.jpg",
+        "shortBio": "Crippa is an Italian chef and restaurateur who is the owner and head chef of Piazza Duomo, a Michelin-starred restaurant in Alba, Italy. He is known for his creative and contemporary take on traditional Italian dishes.",
+        "recipes": [
+            {
+                "name": "Risotto cacio e pepe",
+                "likes": 500,
+                "rating": 4.5,
+                "imageUrl": "https://www.saveur.com/uploads/2019/11/13/A42ITR2TYYYQA3F3MX23KS5PHA.jpg",
+                "description": "This dish is a playful twist on the classic Roman pasta dish. Bottura uses the same ingredients, but instead of pasta, he makes a creamy risotto with pecorino cheese and black pepper.",
+                "ingredients": [
+                    "1 1/2 cups Arborio rice",
+                    "4 tbsp butter",
+                    "1/2 cup grated Parmigiano-Reggiano cheese",
+                    "1/2 cup grated Pecorino cheese",
+                    "1-2 tsp freshly ground black pepper",
+                    "Salt, to taste",
+                    "4-5 cups chicken or vegetable broth"
+                ],
+                "instructions": [
+                    "In a large saucepan, bring the broth to a simmer and keep it warm over low heat.",
+                    "In another large saucepan, melt the butter over medium heat. Add the rice and stir to coat it with the butter. Cook for a few minutes, stirring constantly, until the rice is lightly toasted.",
+                    "Add a ladleful of hot broth to the rice and stir until the liquid is absorbed. Continue adding broth, one ladleful at a time, stirring constantly, until the rice is cooked but still al dente. This should take about 18-20 minutes.",
+                    "Stir in the grated Parmigiano-Reggiano cheese and Pecorino cheese, along with the black pepper. Add salt to taste. Stir until the cheese is melted and the risotto is creamy.",
+                    "Serve the risotto hot, topped with additional grated cheese and black pepper, if desired."
+                ]
+            },
+            {
+                "name": "Emilia burger",
+                "likes": 1000,
+                "imageUrl": "https://www.washingtonpost.com/rf/image_982w/2010-2019/WashingtonPost/2017/06/02/Food/Images/food_020-001.JPG",
+                "description": "This burger is a tribute to Bottura's hometown of Modena. It's made with a beef patty, balsamic onions, Parmigiano-Reggiano cheese, and a special sauce made with mustard, ketchup, and Worcestershire sauce.",
+                "ingredients": [
+                    "1 lb ground beef",
+                    "1/2 cup finely chopped onion",
+                    "1/4 cup bread crumbs",
+                    "1 egg",
+                    "1/4 cup grated Parmesan cheese",
+                    "1 tsp salt",
+                    "1/2 tsp black pepper",
+                    "4 brioche buns",
+                    "4 slices provolone cheese",
+                    "4 slices mortadella",
+                    "4 slices prosciutto",
+                    "1 cup arugula",
+                    "4 tbsp mayonnaise",
+                    "4 tsp balsamic vinegar",
+                    "4 tsp olive oil"
+                ],
+                "instructions": [
+                    "Preheat grill or grill pan to medium-high heat.",
+                    "In a large bowl, mix together the ground beef, onion, bread crumbs, egg, Parmesan cheese, salt, and black pepper until well combined. Form into 4 patties, making an indentation in the center of each one.",
+                    "Grill the burgers for 4-5 minutes per side, or until cooked to your liking.",
+                    "While the burgers are cooking, split the brioche buns and toast them on the grill for 1-2 minutes.",
+                    "To assemble the burgers, spread 1 tbsp of mayonnaise on the bottom half of each bun. Top with a handful of arugula, a slice of provolone cheese, a slice of mortadella, and a slice of prosciutto.",
+                    "Drizzle each burger with 1 tsp of balsamic vinegar and 1 tsp of olive oil. Place the top half of the bun on each burger and serve."
+                ]
+            },
+            {
+                "name": "Tortellini in brodo",
+                "likes": 1000,
+                "imageUrl": "https://cdn.shopify.com/s/files/1/1725/5449/articles/Copy_of_Copy_of_Copy_of_Untitled_copy_1200x1200.png",
+                "description": "This is a classic Italian dish that Bottura has elevated with his own twist. His version uses a broth made from capon and Parmigiano-Reggiano cheese rinds, and the tortellini are filled with a mixture of pork, prosciutto, and Parmigiano-Reggiano cheese.",
+                "ingredients": [
+                    "1 lb. fresh tortellini",
+                    "8 cups chicken broth",
+                    "1/2 cup grated Parmigiano-Reggiano cheese",
+                    "1/4 cup chopped fresh parsley",
+                    "1/4 cup chopped fresh basil",
+                    "1/2 cup finely chopped onion",
+                    "2 garlic cloves, minced",
+                    "2 tbsp olive oil",
+                    "Salt and black pepper, to taste"
+                ],
+                "instructions": [
+                    "In a large pot, heat the olive oil over medium heat. Add the chopped onion and garlic, and cook until softened, about 5 minutes.",
+                    "Add the chicken broth to the pot and bring to a boil. Reduce the heat and let the broth simmer for 10-15 minutes to allow the flavors to meld.",
+                    "Add the fresh tortellini to the broth and cook until tender, about 3-4 minutes.",
+                    "Stir in the grated Parmigiano-Reggiano cheese, chopped parsley, and chopped basil. Season with salt and black pepper to taste.",
+                    "Ladle the tortellini and broth into bowls and serve hot."
+                ]
+            },
+            {
+                "name": "Lasagna with only one meatball",
+                "likes": 1000,
+                "imageUrl": "https://www.akitchenhoorsadventures.com/wp-content/uploads/2021/11/meatball-lasagna-12W.jpg",
+                "description": "This dish is a whimsical take on the classic lasagna. Bottura serves a single giant meatball on top of a slice of lasagna, with a rich tomato sauce and Parmigiano-Reggiano cheese. The idea is that the meatball contains all the flavors of the traditional lasagna, but in a single bite.",
+                "ingredients": [
+                    "1 lb. lasagna noodles",
+                    "1 lb. ground beef",
+                    "1 egg, beaten",
+                    "1/2 cup bread crumbs",
+                    "1/4 cup grated Parmesan cheese",
+                    "1/4 cup milk",
+                    "1/2 tsp salt",
+                    "1/4 tsp black pepper",
+                    "4 cups marinara sauce",
+                    "1 lb. mozzarella cheese, shredded"
+                ],
+                "instructions": [
+                    "Preheat the oven to 375°F.",
+                    "Cook the lasagna noodles according to package directions. Drain and set aside.",
+                    "In a large bowl, mix together the ground beef, egg, bread crumbs, Parmesan cheese, milk, salt, and black pepper until well combined. Form into a large meatball.",
+                    "In a large skillet, brown the meatball on all sides. Remove from the skillet and set aside.",
+                    "In a 9x13 inch baking dish, spread a layer of marinara sauce. Add a layer of cooked lasagna noodles, then another layer of marinara sauce. Sprinkle with shredded mozzarella cheese. Repeat the layers until all ingredients are used up, ending with a layer of marinara sauce on top.",
+                    "Place the meatball on top of the lasagna and cover with additional marinara sauce.",
+                    "Cover the baking dish with foil and bake in the preheated oven for 25 minutes. Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+                    "Remove from the oven and let cool for a few minutes before serving."
+                ]
+            }
+        ]
+    }
+]
