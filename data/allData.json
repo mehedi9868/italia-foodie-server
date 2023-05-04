@@ -3,6 +3,7 @@
         "id": 1,
         "name": "Massimo Bottura",
         "yearsOfExperience": 10,
+        "likes": 500,
         "picture": "https://cdn.unenvironment.org/s3fs-public/people/2020-09/massimo_0.jpeg",
         "shortBio": "Bottura is a Michelin-starred chef and restaurateur from Modena, Italy. He is the owner and head chef of Osteria Francescana, which has been named the best restaurant in the world multiple times. He is known for his innovative take on traditional Italian dishes.",
         "recipes": [
@@ -32,6 +33,7 @@
             {
                 "name": "Emilia burger",
                 "likes": 1000,
+                "rating": 4.0,
                 "imageUrl": "https://www.washingtonpost.com/rf/image_982w/2010-2019/WashingtonPost/2017/06/02/Food/Images/food_020-001.JPG",
                 "description": "This burger is a tribute to Bottura's hometown of Modena. It's made with a beef patty, balsamic onions, Parmigiano-Reggiano cheese, and a special sauce made with mustard, ketchup, and Worcestershire sauce.",
                 "ingredients": [
@@ -63,6 +65,7 @@
             {
                 "name": "Tortellini in brodo",
                 "likes": 1000,
+                "rating": 4.0,
                 "imageUrl": "https://cdn.shopify.com/s/files/1/1725/5449/articles/Copy_of_Copy_of_Copy_of_Untitled_copy_1200x1200.png",
                 "description": "This is a classic Italian dish that Bottura has elevated with his own twist. His version uses a broth made from capon and Parmigiano-Reggiano cheese rinds, and the tortellini are filled with a mixture of pork, prosciutto, and Parmigiano-Reggiano cheese.",
                 "ingredients": [
@@ -87,6 +90,7 @@
             {
                 "name": "Lasagna with only one meatball",
                 "likes": 1000,
+                "rating": 4.0,
                 "imageUrl": "https://www.akitchenhoorsadventures.com/wp-content/uploads/2021/11/meatball-lasagna-12W.jpg",
                 "description": "This dish is a whimsical take on the classic lasagna. Bottura serves a single giant meatball on top of a slice of lasagna, with a rich tomato sauce and Parmigiano-Reggiano cheese. The idea is that the meatball contains all the flavors of the traditional lasagna, but in a single bite.",
                 "ingredients": [
@@ -118,6 +122,7 @@
         "id": 2,
         "name": "Lidia Bastianich",
         "yearsOfExperience": 10,
+        "likes": 400,
         "picture": "https://pbs.twimg.com/profile_images/1704702142/Final_Blue_1593_Low_Res_for_twitter_400x400.jpg",
         "shortBio": " Bastianich is an Italian-American celebrity chef, author, and restaurateur. She has written several cookbooks and hosted several cooking shows on TV. She is known for her traditional Italian recipes and her passion for preserving Italian food traditions.",
         "recipes": [
@@ -147,6 +152,7 @@
             {
                 "name": "Emilia burger",
                 "likes": 1000,
+                "rating": 4.0,
                 "imageUrl": "https://www.washingtonpost.com/rf/image_982w/2010-2019/WashingtonPost/2017/06/02/Food/Images/food_020-001.JPG",
                 "description": "This burger is a tribute to Bottura's hometown of Modena. It's made with a beef patty, balsamic onions, Parmigiano-Reggiano cheese, and a special sauce made with mustard, ketchup, and Worcestershire sauce.",
                 "ingredients": [
@@ -178,6 +184,7 @@
             {
                 "name": "Tortellini in brodo",
                 "likes": 1000,
+                "rating": 4.0,
                 "imageUrl": "https://cdn.shopify.com/s/files/1/1725/5449/articles/Copy_of_Copy_of_Copy_of_Untitled_copy_1200x1200.png",
                 "description": "This is a classic Italian dish that Bottura has elevated with his own twist. His version uses a broth made from capon and Parmigiano-Reggiano cheese rinds, and the tortellini are filled with a mixture of pork, prosciutto, and Parmigiano-Reggiano cheese.",
                 "ingredients": [
@@ -202,6 +209,7 @@
             {
                 "name": "Lasagna with only one meatball",
                 "likes": 1000,
+                "rating": 4.0,
                 "imageUrl": "https://www.akitchenhoorsadventures.com/wp-content/uploads/2021/11/meatball-lasagna-12W.jpg",
                 "description": "This dish is a whimsical take on the classic lasagna. Bottura serves a single giant meatball on top of a slice of lasagna, with a rich tomato sauce and Parmigiano-Reggiano cheese. The idea is that the meatball contains all the flavors of the traditional lasagna, but in a single bite.",
                 "ingredients": [
@@ -233,6 +241,7 @@
         "id": 3,
         "name": "Gualtiero Marchesi",
         "yearsOfExperience": 10,
+        "likes": 350,
         "picture": "https://d3h1lg3ksw6i6b.cloudfront.net/media/image/2017/12/29/05246d5c35bf4188bf92962e05e1907d_gualtiero_marchesi_text.jpg",
         "shortBio": "Marchesi was an Italian chef and restaurateur who is often credited with being the founder of modern Italian cuisine. He was the first Italian chef to be awarded three Michelin stars and has been recognized as one of the greatest chefs of all time.",
         "recipes": [
@@ -262,6 +271,7 @@
             {
                 "name": "Emilia burger",
                 "likes": 1000,
+                "rating": 4.0,
                 "imageUrl": "https://www.washingtonpost.com/rf/image_982w/2010-2019/WashingtonPost/2017/06/02/Food/Images/food_020-001.JPG",
                 "description": "This burger is a tribute to Bottura's hometown of Modena. It's made with a beef patty, balsamic onions, Parmigiano-Reggiano cheese, and a special sauce made with mustard, ketchup, and Worcestershire sauce.",
                 "ingredients": [
@@ -293,6 +303,7 @@
             {
                 "name": "Tortellini in brodo",
                 "likes": 1000,
+                "rating": 4.0,
                 "imageUrl": "https://cdn.shopify.com/s/files/1/1725/5449/articles/Copy_of_Copy_of_Copy_of_Untitled_copy_1200x1200.png",
                 "description": "This is a classic Italian dish that Bottura has elevated with his own twist. His version uses a broth made from capon and Parmigiano-Reggiano cheese rinds, and the tortellini are filled with a mixture of pork, prosciutto, and Parmigiano-Reggiano cheese.",
                 "ingredients": [
@@ -317,6 +328,7 @@
             {
                 "name": "Lasagna with only one meatball",
                 "likes": 1000,
+                "rating": 4.0,
                 "imageUrl": "https://www.akitchenhoorsadventures.com/wp-content/uploads/2021/11/meatball-lasagna-12W.jpg",
                 "description": "This dish is a whimsical take on the classic lasagna. Bottura serves a single giant meatball on top of a slice of lasagna, with a rich tomato sauce and Parmigiano-Reggiano cheese. The idea is that the meatball contains all the flavors of the traditional lasagna, but in a single bite.",
                 "ingredients": [
@@ -348,6 +360,7 @@
         "id": 4,
         "name": "Carlo Cracco",
         "yearsOfExperience": 10,
+        "likes": 500,
         "picture": "https://www.kachen.lu/wp-content/uploads/2021/05/carlocracco.jpg",
         "shortBio": "Cracco is an Italian chef and restaurateur who has received multiple Michelin stars for his restaurants. He is known for his innovative and modern approach to Italian cuisine.",
         "recipes": [
@@ -377,6 +390,7 @@
             {
                 "name": "Emilia burger",
                 "likes": 1000,
+                "rating": 4.0,
                 "imageUrl": "https://www.washingtonpost.com/rf/image_982w/2010-2019/WashingtonPost/2017/06/02/Food/Images/food_020-001.JPG",
                 "description": "This burger is a tribute to Bottura's hometown of Modena. It's made with a beef patty, balsamic onions, Parmigiano-Reggiano cheese, and a special sauce made with mustard, ketchup, and Worcestershire sauce.",
                 "ingredients": [
@@ -408,6 +422,7 @@
             {
                 "name": "Tortellini in brodo",
                 "likes": 1000,
+                "rating": 4.0,
                 "imageUrl": "https://cdn.shopify.com/s/files/1/1725/5449/articles/Copy_of_Copy_of_Copy_of_Untitled_copy_1200x1200.png",
                 "description": "This is a classic Italian dish that Bottura has elevated with his own twist. His version uses a broth made from capon and Parmigiano-Reggiano cheese rinds, and the tortellini are filled with a mixture of pork, prosciutto, and Parmigiano-Reggiano cheese.",
                 "ingredients": [
@@ -432,6 +447,7 @@
             {
                 "name": "Lasagna with only one meatball",
                 "likes": 1000,
+                "rating": 4.0,
                 "imageUrl": "https://www.akitchenhoorsadventures.com/wp-content/uploads/2021/11/meatball-lasagna-12W.jpg",
                 "description": "This dish is a whimsical take on the classic lasagna. Bottura serves a single giant meatball on top of a slice of lasagna, with a rich tomato sauce and Parmigiano-Reggiano cheese. The idea is that the meatball contains all the flavors of the traditional lasagna, but in a single bite.",
                 "ingredients": [
@@ -463,6 +479,7 @@
         "id": 5,
         "name": "Davide Oldani",
         "yearsOfExperience": 10,
+        "likes": 450,
         "picture": "https://www.alimentipedia.it/files/styles/main_image/public/images/davide-oldani.jpg",
         "shortBio": "Oldani is an Italian chef and restaurateur who is known for his cucina pop style of cooking, which emphasizes simplicity, affordability, and accessibility. He has been recognized as one of the most influential chefs in Italy.",
         "recipes": [
@@ -492,6 +509,7 @@
             {
                 "name": "Emilia burger",
                 "likes": 1000,
+                "rating": 4.0,
                 "imageUrl": "https://www.washingtonpost.com/rf/image_982w/2010-2019/WashingtonPost/2017/06/02/Food/Images/food_020-001.JPG",
                 "description": "This burger is a tribute to Bottura's hometown of Modena. It's made with a beef patty, balsamic onions, Parmigiano-Reggiano cheese, and a special sauce made with mustard, ketchup, and Worcestershire sauce.",
                 "ingredients": [
@@ -523,6 +541,7 @@
             {
                 "name": "Tortellini in brodo",
                 "likes": 1000,
+                "rating": 4.0,
                 "imageUrl": "https://cdn.shopify.com/s/files/1/1725/5449/articles/Copy_of_Copy_of_Copy_of_Untitled_copy_1200x1200.png",
                 "description": "This is a classic Italian dish that Bottura has elevated with his own twist. His version uses a broth made from capon and Parmigiano-Reggiano cheese rinds, and the tortellini are filled with a mixture of pork, prosciutto, and Parmigiano-Reggiano cheese.",
                 "ingredients": [
@@ -547,6 +566,7 @@
             {
                 "name": "Lasagna with only one meatball",
                 "likes": 1000,
+                "rating": 4.0,
                 "imageUrl": "https://www.akitchenhoorsadventures.com/wp-content/uploads/2021/11/meatball-lasagna-12W.jpg",
                 "description": "This dish is a whimsical take on the classic lasagna. Bottura serves a single giant meatball on top of a slice of lasagna, with a rich tomato sauce and Parmigiano-Reggiano cheese. The idea is that the meatball contains all the flavors of the traditional lasagna, but in a single bite.",
                 "ingredients": [
@@ -578,6 +598,7 @@
         "id": 6,
         "name": "Enrico Crippa",
         "yearsOfExperience": 10,
+        "likes": 260,
         "picture": "https://primochef.it/wp-content/uploads/2020/08/GI_Enrico_Crippa.jpg",
         "shortBio": "Crippa is an Italian chef and restaurateur who is the owner and head chef of Piazza Duomo, a Michelin-starred restaurant in Alba, Italy. He is known for his creative and contemporary take on traditional Italian dishes.",
         "recipes": [
@@ -607,6 +628,7 @@
             {
                 "name": "Emilia burger",
                 "likes": 1000,
+                "rating": 4.0,
                 "imageUrl": "https://www.washingtonpost.com/rf/image_982w/2010-2019/WashingtonPost/2017/06/02/Food/Images/food_020-001.JPG",
                 "description": "This burger is a tribute to Bottura's hometown of Modena. It's made with a beef patty, balsamic onions, Parmigiano-Reggiano cheese, and a special sauce made with mustard, ketchup, and Worcestershire sauce.",
                 "ingredients": [
@@ -638,6 +660,7 @@
             {
                 "name": "Tortellini in brodo",
                 "likes": 1000,
+                "rating": 4.0,
                 "imageUrl": "https://cdn.shopify.com/s/files/1/1725/5449/articles/Copy_of_Copy_of_Copy_of_Untitled_copy_1200x1200.png",
                 "description": "This is a classic Italian dish that Bottura has elevated with his own twist. His version uses a broth made from capon and Parmigiano-Reggiano cheese rinds, and the tortellini are filled with a mixture of pork, prosciutto, and Parmigiano-Reggiano cheese.",
                 "ingredients": [
@@ -662,6 +685,7 @@
             {
                 "name": "Lasagna with only one meatball",
                 "likes": 1000,
+                "rating": 4.0,
                 "imageUrl": "https://www.akitchenhoorsadventures.com/wp-content/uploads/2021/11/meatball-lasagna-12W.jpg",
                 "description": "This dish is a whimsical take on the classic lasagna. Bottura serves a single giant meatball on top of a slice of lasagna, with a rich tomato sauce and Parmigiano-Reggiano cheese. The idea is that the meatball contains all the flavors of the traditional lasagna, but in a single bite.",
                 "ingredients": [
